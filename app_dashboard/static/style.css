@@ -1,0 +1,54 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1e1e2f;
+    padding: 30px;
+    color: white;
+}
+
+.navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+
+/* Main */
+.db-city-selector-container {
+    padding: 20px;
+    background-color: aqua;
+}
+
+.db-city-block-container {
+    padding: 10px;
+}
+
+.db-country-block-container {
+    padding: 10px;
+    background-color: rgb(213, 213, 213);
+}
+
+.db-temperature-block-container {
+    padding: 10px;
+}
+
+.db-weather-block-container {
+    padding: 10px;
+    background-color: rgb(213, 213, 213);
+}
+
+.db-weather-description-block-container {
+    padding: 10px;
+}
+
+.db-weather-icon-block-container {
+    padding: 5px;
+    background-color: rgb(213, 213, 213);
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../static/style.css">
+    <title>Dashboard Openweather</title>
+</head>
+<body>
+    <div class="nav-container">
+        <nav class="navbar">
+            <div class="logo">Dashboard Openweather</div>
+        </nav>
+    </div>
+    <div class="main-container">
+        <div class="db-city-selector-container">
+            <form action="" method="POST">
+                {% csrf_token %}
+                <select name="city-selector" id="city-selector">
+                    {% for d in data %}
+                    <option value="{{ d.city }}" {%if d.city == selected_city %} selected {% endif %}>{{ d.city }}</option>
+                    {% endfor%}
+                </select>
+                <button type="submit">Display</button>
+            </form>
+        </div>
+        <div class="db-city-block-container">
+            {% if selected_city %}
+            <h1>{{ selected_city }}</h1>
+            {% endif %}
+        </div>
+        <div class="db-country-block-container">
+            {% if selected_city %}
+            <h1>{{ selected_city_country }}</h1>
+            {% endif %}
+        </div>
+        <div class="db-temperature-block-container">
+            {% if selected_city %}
+            <h1>{{ selected_city_temperature }} °C</h1>
+            {% endif %}
+        </div>
+        <div class="db-weather-block-container">
+            {% if selected_city %}
+            <h1>{{ selected_city_weather }}</h1>
+            {% endif %}
+        </div>
+        <div class="db-weather-description-block-container">
+            {% if selected_city %}
+            <h1>{{ selected_city_weather_description }}</h1>
+            {% endif %}
+        </div>
+        <div class="db-weather-icon-block-container">
+            {% if selected_city %}
+            <img src="{{ selected_city_weather_icon }}"/>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
