@@ -23,7 +23,7 @@ body {
 /* Main */
 .db-city-selector-container {
     padding: 20px;
-    background-color: aqua;
+    background-color: aqua
 }
 
 .db-city-block-container {
@@ -51,4 +51,15 @@ body {
 .db-weather-icon-block-container {
     padding: 5px;
     background-color: rgb(213, 213, 213);
+}
+
+/* Footer */
+.footer-container {
+    background-color: #1e1e2f;
+    padding: 30px;
+    color: white;
+}
+
+.footer-container p {
+    margin: 0
 }

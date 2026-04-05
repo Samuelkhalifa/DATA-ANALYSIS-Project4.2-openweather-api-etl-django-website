@@ -24,35 +24,46 @@
             </form>
         </div>
         <div class="db-city-block-container">
+            <p>City</p>
             {% if selected_city %}
             <h1>{{ selected_city }}</h1>
             {% endif %}
         </div>
         <div class="db-country-block-container">
+            <p>Country</p>
             {% if selected_city %}
             <h1>{{ selected_city_country }}</h1>
             {% endif %}
         </div>
         <div class="db-temperature-block-container">
+            <p>Temperature</p>
             {% if selected_city %}
             <h1>{{ selected_city_temperature }} °C</h1>
             {% endif %}
         </div>
         <div class="db-weather-block-container">
+            <p>Weather</p>
             {% if selected_city %}
             <h1>{{ selected_city_weather }}</h1>
             {% endif %}
         </div>
         <div class="db-weather-description-block-container">
+            <p>Weather description</p>
             {% if selected_city %}
             <h1>{{ selected_city_weather_description }}</h1>
             {% endif %}
         </div>
         <div class="db-weather-icon-block-container">
+            <p>Wheather icon</p>
             {% if selected_city %}
             <img src="{{ selected_city_weather_icon }}"/>
             {% endif %}
         </div>
+    </div>
+    <div class="footer-container">
+        <footer>
+            <p>Made by SK</p>
+        </footer>
     </div>
 </body>
 </html>

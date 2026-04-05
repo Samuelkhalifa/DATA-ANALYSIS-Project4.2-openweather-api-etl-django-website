@@ -1,6 +1,7 @@
 .DS_Store
 .env
 /app_dashboard/__pycache__
+/app_dashboard/migrations/__pycache__
 /etl/__pycache__
 /etl/etl_files/__pycache__
 /csv_data

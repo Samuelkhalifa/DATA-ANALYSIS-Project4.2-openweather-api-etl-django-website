@@ -19,6 +19,5 @@ def main(cities):
         writer = csv.DictWriter(csvfile, fieldnames=transformed_data[0].keys())
         writer.writeheader()
         writer.writerows(transformed_data)
-    #load(transformed_data)
 
 main(cities)
