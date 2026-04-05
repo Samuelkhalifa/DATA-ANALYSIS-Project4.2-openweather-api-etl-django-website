@@ -1,0 +1,10 @@
+city,country,latitude,longitude,weather,weather_description,weather_icon,temperature,temperature_feels_like,temperature_min,temperature_max
+Rome,US,34.257,-85.1647,Clouds,overcast clouds,https://openweathermap.org/img/wn/04d@2x.png,14.26,14.22,13.47,15.42
+Paris,FR,48.8534,2.3488,Clear,clear sky,https://openweathermap.org/img/wn/01d@2x.png,15.93,14.91,15.1,17.36
+London,GB,51.5085,-0.1257,Clouds,overcast clouds,https://openweathermap.org/img/wn/04d@2x.png,13.44,11.83,12.56,14.44
+Barcelona,ES,41.3888,2.159,Clear,clear sky,https://openweathermap.org/img/wn/01d@2x.png,20.39,20.29,18.64,24.55
+Bangkok,TH,13.75,100.5167,Clouds,broken clouds,https://openweathermap.org/img/wn/04n@2x.png,31.08,30.12,29.94,31.63
+Istanbul,TR,41.0351,28.9833,Clear,clear sky,https://openweathermap.org/img/wn/01d@2x.png,17.68,16.6,17.68,17.68
+Berlin,DE,52.5244,13.4105,Clouds,few clouds,https://openweathermap.org/img/wn/02d@2x.png,13.48,12.74,12.21,14.07
+Prague,CZ,50.088,14.4208,Clear,clear sky,https://openweathermap.org/img/wn/01d@2x.png,22.05,21.38,21.29,23.28
+Florence,IT,43.7667,11.25,Clear,clear sky,https://openweathermap.org/img/wn/01d@2x.png,22.48,21.44,20.45,23.92
