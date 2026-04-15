@@ -17,6 +17,12 @@ Project in the context of ETL Data Analysis self-learning
 
 
 ### &#127919; Project's steps
-* Retrieve and transform data from the openweather API (`Python`).
-* Import cleaned data into (`MySQL`).
-* Display results on a website page using (`html`), (`CSS`) and (`Django`) framework, and the (`runserver`) command with (`bash`) on manage.py file.
+* Retrieve and transform data from the openweather API with `Python`.
+* Import cleaned data into `MySQL`.
+* Display results on a website page using `html`, `CSS` and `Django` framework.
+
+
+### &#128640; Projet setup and activation
+* `Git clone` the project et get inside, to project root.
+* On your  `CLI`, run the following file `init.sh` by `./init.sh`, which will activate Django server by getting into backend and running the command `manage.py runserver`.
+* Go to `localhost:8000` to use the website dashboard.
