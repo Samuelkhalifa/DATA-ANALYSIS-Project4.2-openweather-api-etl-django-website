@@ -5,4 +5,5 @@ backend/app_dashboard/migrations/__pycache__
 backend/config/__pycache__
 backend/etl/__pycache__
 backend/etl/etl_files/__pycache__
-data/
+data/weather_data.csv
+data/world_cities.csv

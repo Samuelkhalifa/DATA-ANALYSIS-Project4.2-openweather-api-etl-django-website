@@ -1,0 +1,10 @@
+popularity,geoname_id,name_en,country_code,population,latitude,longitude,country,region,continent,code2,code,province
+1437,3169070,Rome,IT,2563241,41.894741,12.483900,Italy,"Southern Europe",Europe,IT,ITA,Latium
+1346,2988507,Paris,FR,2138551,48.853409,2.348800,France,"Western Europe",Europe,FR,FRA,Île-de-France
+958,2643743,London,GB,7556900,51.508530,-0.125740,"United Kingdom","British Islands",Europe,GB,GBR,England
+943,3128760,Barcelona,ES,1621537,41.388790,2.158990,Spain,"Southern Europe",Europe,ES,ESP,Catalonia
+723,1609350,Bangkok,TH,5104476,13.753980,100.501442,Thailand,"Southeast Asia",Asia,TH,THA,Bangkok
+716,745044,İstanbul,TR,11174257,41.013840,28.949659,Turkey,"Middle East",Asia,TR,TUR,Istanbul
+696,2950159,Berlin,DE,3426354,52.524368,13.410530,Germany,"Western Europe",Europe,DE,DEU,Berlin
+632,3067696,Prague,CZ,1165581,50.088039,14.420760,"Czech Republic","Eastern Europe",Europe,CZ,CZE,Praha
+573,3176959,Firenze,IT,371517,43.766670,11.250000,Italy,"Southern Europe",Europe,IT,ITA,Tuscany
