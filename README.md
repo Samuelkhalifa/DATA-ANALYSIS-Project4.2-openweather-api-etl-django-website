@@ -24,5 +24,5 @@ Project in the context of ETL Data Analysis self-learning
 
 ### &#128640; Projet setup and activation
 * `Git clone` the project et get inside, to project root.
-* On your  `CLI`, run the following file `init.sh` by `./init.sh`, which will activate Django server by getting into backend and running the command `manage.py runserver`.
+* On your  `CLI`, run the following file `init.sh` with `./init.sh`, which will activate Django server by getting into backend and running the command `manage.py runserver`.
 * Go to `localhost:8000` to use the website dashboard.
