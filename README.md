@@ -1,4 +1,4 @@
-Project in the context of ETL Data Analysis self-learning 
+Project in the context of ETL Data Analysis self-learning
 
 <br>
 
