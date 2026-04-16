@@ -29,14 +29,14 @@ Project in the context of ETL Data Analysis self-learning
 
 <br>
 
-### &#127919; Project steps
+## &#127919; Project steps
 * Retrieve and transform data from the openweather API with `Python`.
 * Import cleaned data into `csv` file.
 * Display results on a website page using `html`, `CSS` and `Django` framework. 
 
 <br>
 
-### &#128640; Project setup and activation
+## &#128640; Project setup and activation
 
 <br>
 
