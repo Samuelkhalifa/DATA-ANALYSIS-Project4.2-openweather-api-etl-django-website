@@ -37,10 +37,30 @@ Project in the context of ETL Data Analysis self-learning
 <br>
 
 ### &#128640; Project setup and activation
-* `Git clone` the project and get inside, to project root.
-* Write into a `env.`file your personal API key.
-* On your  `CLI`, run the following file `init.sh` with `./init.sh`, which will activate Django server by getting into backend and running the command `manage.py runserver`.
-* Go to `localhost:8000` to use the website dashboard.
+
+<br>
+
+`Git clone` the project and get inside, to project root.
+  ```bash
+  git clone <repository-url> openweather-api-elt-django-website
+  cd openweather-api-elt-django-website
+  ```
+<br>
+
+Write into a `env.`file your personal API key.
+  ```dotenv
+  touch .env # (for Mac)
+  ```
+<br>
+
+Run the following script `init.sh`, which will activate Django server by getting into backend and running the command `manage.py runserver`.
+  ```bash
+  chmod +x init.sh # (make the shell script executable)
+  ./init.sh
+  ```
+<br>
+
+Go to `localhost:8000` to use the website dashboard.
 
 
 
