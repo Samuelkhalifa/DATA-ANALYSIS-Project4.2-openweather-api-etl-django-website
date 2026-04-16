@@ -47,7 +47,7 @@ Project in the context of ETL Data Analysis self-learning
   ```
 <br>
 
-Write into a `env.`file your personal API key.
+Write into a `env.` file your personal API key.
   ```dotenv
   touch .env # (for Mac)
   ```
