@@ -18,6 +18,17 @@ Project in the context of ETL Data Analysis self-learning
 
 <br>
 
+## &#x1F4DD; Project graph
+
+<br>
+
+<p align="center";>
+  <img width="934" height="178" alt="Capture d’écran 2026-04-16 à 10 37 20" 
+  src="https://github.com/user-attachments/assets/7a51ae98-5569-448b-a222-505a2862987e" />
+</p>
+
+<br>
+
 ### &#127919; Project steps
 * Retrieve and transform data from the openweather API with `Python`.
 * Import cleaned data into `csv` file.
@@ -31,13 +42,6 @@ Project in the context of ETL Data Analysis self-learning
 * On your  `CLI`, run the following file `init.sh` with `./init.sh`, which will activate Django server by getting into backend and running the command `manage.py runserver`.
 * Go to `localhost:8000` to use the website dashboard.
 
-<br>
-<br>
-<br>
 
-<p align="center";>
-  <img width="934" height="178" alt="Capture d’écran 2026-04-16 à 10 37 20" 
-  src="https://github.com/user-attachments/assets/7a51ae98-5569-448b-a222-505a2862987e" />
-</p>
 
 
