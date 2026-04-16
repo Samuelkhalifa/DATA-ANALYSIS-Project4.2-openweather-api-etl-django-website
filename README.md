@@ -34,9 +34,9 @@ Project in the context of ETL Data Analysis self-learning
 <br>
 <br>
 
-
-
 <p align="center";>
-  <img width="581" height="309" alt="Capture d’écran 2026-04-15 à 23 37 43"  
-  src="https://github.com/user-attachments/assets/76a6dece-762d-4962-962e-0e5ef4fb7c83" />
+  <img width="934" height="178" alt="Capture d’écran 2026-04-16 à 10 37 20" 
+  src="https://github.com/user-attachments/assets/7a51ae98-5569-448b-a222-505a2862987e" />
 </p>
+
+
