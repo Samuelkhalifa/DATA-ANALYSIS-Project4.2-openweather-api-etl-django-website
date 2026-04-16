@@ -23,6 +23,7 @@ Project in the context of ETL Data Analysis self-learning
 * Import cleaned data into `csv` file.
 * Display results on a website page using `html`, `CSS` and `Django` framework.
 
+<br>
 
 ### &#128640; Project setup and activation
 * `Git clone` the project et get inside, to project root.
