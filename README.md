@@ -48,9 +48,13 @@ Project in the context of ETL Data Analysis self-learning
 <br>
 
 Write into a `env.` file your personal API key.
-  ```dotenv
+  ```bash
   touch .env # (for Mac)
   ```
+  ```dotenv
+  API_KEY=""
+  ```
+
 <br>
 
 Run the following script `init.sh`, which will activate Django server by getting into backend and running the command `python manage.py runserver`.
