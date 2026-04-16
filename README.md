@@ -53,7 +53,7 @@ Write into a `env.`file your personal API key.
   ```
 <br>
 
-Run the following script `init.sh`, which will activate Django server by getting into backend and running the command `manage.py runserver`.
+Run the following script `init.sh`, which will activate Django server by getting into backend and running the command `python manage.py runserver`.
   ```bash
   chmod +x init.sh # (make the shell script executable)
   ./init.sh
